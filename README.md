@@ -16,7 +16,7 @@ CampusConnect est une application web et mobile qui met en relation des étudian
 
 - **Backend** : Laravel 12 (API RESTful)
 - **Frontend** : React.js
-- **Base de données** : MySQL / MariaDB
+- **Base de données** : MySQL 
 - **Communication** : Axios
 - **Authentification** : Sanctum
 - **Diagrammes & modélisation** : UML (class, use case, séquence)
@@ -46,7 +46,7 @@ npm run dev
 bash
 Copier
 Modifier
-mini-jobs/
+projet_fil_rouge/
 │
 ├── backend/       # Projet Laravel
 │   ├── app/
